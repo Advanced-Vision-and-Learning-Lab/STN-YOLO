@@ -1,0 +1,44 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# Global Wheat 2020 dataset http://www.global-wheat.com/ by University of Saskatchewan
+# Example usage: yolo train data=GlobalWheat2020.yaml
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── GlobalWheat2020  ← downloads here (7.0 GB)
+
+num_runs: 3
+nc: 1
+# names: ['Plant']
+
+roboflow:
+  workspace: lab-ply6t
+  project: plant-phenotypes
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/lab-ply6t/plant-phenotypes/dataset/7
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /scratch/user/yashzambre/ultralytics/GlobalWheat2020  # dataset root dir
+
+train: # train images (relative to 'path') 3422 images
+  - images/arvalis_1
+  - images/arvalis_2
+  - images/arvalis_3
+  - images/ethz_1
+  - images/rres_1
+  - images/inrae_1
+  - images/usask_1
+val: # val images (relative to 'path') 748 images (WARNING: train set contains ethz_1)
+  - images/ethz_1
+test: # test images (optional) 1276 images
+  - images/utokyo_1
+  - images/utokyo_2
+  - images/nau_1
+  - images/uq_1
+
+# Classes
+names:
+  0: wh
+
+
