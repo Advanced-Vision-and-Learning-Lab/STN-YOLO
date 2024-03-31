@@ -3,7 +3,7 @@
 
 _Yash Zambre and Joshua Peeples_
 
-![Fig1_Workflow](https://github.com/Peeples-Lab/STN-YOLO/ultralytics/pipeline.png)
+![STN-YOLO/ultralytics/pipeline.png](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/ultralytics/pipeline.png)
 
 Note: If this code is used, cite it: Yash Zambre and Joshua Peeples. 
 
