@@ -9,7 +9,8 @@ Note: If this code is used, cite it: Yash Zambre and Joshua Peeples.
 
 TBD for paper links 
 
-In this repository, we provide the paper and code for the "Quantitative Analysis of Primary Attribution Explainable Artificial Intelligence Methods for Remote Sensing Image Classification."
+In this repository, we provide the code for the "Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection"
+
 
 ## Installation Prerequisites
 
