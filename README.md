@@ -3,7 +3,7 @@
 
 _Yash Zambre and Joshua Peeples_
 
-![STN-YOLO/ultralytics/pipeline.png](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/ultralytics/pipeline.png)
+![STN-YOLO/ultralytics/pipeline.png](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/ultralytics/architecture.png)
 
 Note: If this code is used, cite it: Yash Zambre and Joshua Peeples. 
 
@@ -15,7 +15,7 @@ In this repository, we provide the paper and code for the "Quantitative Analysis
 
 This code uses python, pytorch and YOLO model. 
 Please use [`Pytorch's website`](https://pytorch.org/get-started/locally/) to download necessary packages.
-[YOLO](https://docs.ultralytics.com/modes/) is used for the object detection model. Please follow the instructions on each website to download the modules.
+[YOLO](https://docs.ultralytics.com/modes/) is used for the object detection model and the framework used is Ultralytics. Please follow the instructions on each website to download the modules.
 
 ## Demo
 
