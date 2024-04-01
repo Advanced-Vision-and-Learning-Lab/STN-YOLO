@@ -15,7 +15,7 @@ import pdb
 
 # from Utils.Save_Results import save_results
 # from Prepare_Data import Prepare_DataLoaders
-from Utils.Network_functions import initialize_model, train_model, test_model
+from Utils.Initailize_model import initialize_model
 from yaml import load , CLoader as Loader
 #Turn off plotting
 plt.ioff()
