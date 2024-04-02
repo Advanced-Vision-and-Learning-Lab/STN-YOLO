@@ -5,8 +5,8 @@ _Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul_
 
 ![STN-YOLO/ultralytics/pipeline.png](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/ultralytics/architecture.png)
 
-[`Zendo`](https://zenodo.org/record/8023959). https://doi.org/10.5281/zenodo.8023959
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8023959.svg)](https://doi.org/10.5281/zenodo.8023959)
+[`Zendo`](https://zenodo.org/records/10905984). https://zenodo.org/records/10905984
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10905984.svg)](https://zenodo.org/records/10905984)
 
 [`IEEE Xplore (name)`](tbd)
 
