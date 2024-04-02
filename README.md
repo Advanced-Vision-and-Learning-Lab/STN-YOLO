@@ -57,7 +57,7 @@ The STN-YOLO runs using the following functions.
 ## Inventory
 
 ```
-https://github.com/Peeples-Lab/XAI_Analysis
+https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO
 
 └── root dir
 	├── demo.py   //Run this. Main demo file.
@@ -75,7 +75,7 @@ https://github.com/Peeples-Lab/XAI_Analysis
 
 ## License
 
-This source code is licensed under the license found in the [`LICENSE`](LICENSE) 
+This source code is licensed under the license found in the [`LICENSE`](LICENSE.txt) 
 file in the root directory of this source tree.
 
 This product is Copyright (c) 2023 Y. Zambre and J. Peeples. All rights reserved.
