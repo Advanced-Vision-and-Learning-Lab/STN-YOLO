@@ -80,5 +80,17 @@ file in the root directory of this source tree.
 
 This product is Copyright (c) 2023 Y. Zambre and J. Peeples. All rights reserved.
 
+## <a name="CitingSTN-YOLO"></a>Citing Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection
 
-tbd
+If you use the code, please cite the following 
+reference using the following entry.
+
+**Plain Text:**
+
+Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul, "Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection,"  in Review.
+
+**BibTex:**
+```
+
+
+```
