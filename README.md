@@ -1,5 +1,5 @@
 # STN-YOLO
-**SPATIAL TRANSFORMER NETWORK YOU ONLY LOOK ONCE (STN-YOLO) FOR IMPROVED OBJECT DETECTION**
+**Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection**
 
 _Yash Zambre and Joshua Peeples_
 
