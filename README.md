@@ -1,9 +1,19 @@
 # STN-YOLO
 **Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection**
 
-_Yash Zambre and Joshua Peeples_
+_Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul_
 
 ![STN-YOLO/ultralytics/pipeline.png](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/ultralytics/architecture.png)
+
+[`Zendo`](https://zenodo.org/record/8023959). https://doi.org/10.5281/zenodo.8023959
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8023959.svg)](https://doi.org/10.5281/zenodo.8023959)
+
+[`IEEE Xplore (name)`](tbd)
+
+[`arXiv`](tbd)
+
+[`BibTeX`](tbd)
+
 
 Note: If this code is used, cite it: Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul. 
 
