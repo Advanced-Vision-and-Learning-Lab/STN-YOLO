@@ -5,7 +5,7 @@ _Yash Zambre and Joshua Peeples_
 
 ![STN-YOLO/ultralytics/pipeline.png](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/ultralytics/architecture.png)
 
-Note: If this code is used, cite it: Yash Zambre and Joshua Peeples. 
+Note: If this code is used, cite it: Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul. 
 
 TBD for paper links 
 
