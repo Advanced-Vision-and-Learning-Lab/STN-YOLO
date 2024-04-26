@@ -10,11 +10,6 @@ import torch.nn as nn
 import torch.optim as optim
 import matplotlib.pyplot as plt
 import pdb
-#/home/grads/y/yashzambre/Desktop/ultralytics/ultralytics/nn/modules/block.py
-
-
-# from Utils.Save_Results import save_results
-# from Prepare_Data import Prepare_DataLoaders
 from Utils.Initailize_model import initialize_model
 from yaml import load , CLoader as Loader
 #Turn off plotting
@@ -45,7 +40,6 @@ def main(args):
     
     for split in range(0, numRuns):
         #Set same random seed based on split and fairly compare
-        #eacah embedding approach
         torch.manual_seed(split)
         np.random.seed(split)
         np.random.seed(split)
@@ -68,7 +62,7 @@ def main(args):
             list_device.tolist()
         else:
             list_device = device.type   
-        # from info select the number of parameters for the model
+        
         model_ft.info()
         value=model_ft.info()
         num_params = value[1]
@@ -84,17 +78,19 @@ def main(args):
                                             Dataset,
                                             model_name)
         name='Run_{}'.format(split+1)
-        ## TRAIN 
+        #TRAIN 
         model_ft.train(data=args.yaml, epochs= args.num_epochs, batch=args.train_batch_size ,imgsz=args.resize_size, 
                         device= list_device,pretrained=args.use_pretrained, project = project, name= name,save=args.save_results,
                        seed = split)
         
-        # # pretrained and freeze already there ( implement later) & dropout
+        #pretrained and freeze already there ( implement later) & dropout
 
-        # ##  VALIDATE 
+        #  VALIDATE 
         # model_ft.val(save=args.save_results,batch = args.val_batch_size) 
-        # ## TEST 
+        
+        # TEST 
         # model_ft.val(split='test',save=args.save_results)
+        # If explicitly want to see the model info such as the number of the parameters and much more.
         #model_ft.info()
         print('**********Run ' + str(split + 1) + model_name + ' Finished**********')
        
@@ -103,9 +99,9 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Run Angular Losses and Baseline experiments for dataset')
     parser.add_argument('--save_results', default=True, action=argparse.BooleanOptionalAction,
                         help='Save results of experiments(default: True)')
-    parser.add_argument('--folder', type=str, default='Saved_Models/Test_Code/',
+    parser.add_argument('--folder', type=str, default='path/to/your/Saved_Models/',
                         help='Location to save models')
-    parser.add_argument('--yaml', type=str, default='/home/grads/y/yashzambre/Desktop/ultralytics/Plant-phenotypes-1/data.yaml',
+    parser.add_argument('--yaml', type=str, default='/path/to/your/data.yaml',
                         help='Location to save models')
     parser.add_argument('--feature_extraction', default=True, action=argparse.BooleanOptionalAction,
                         help='Flag for feature extraction. False, train whole model. True, only update fully connected/encoder parameters (default: True)')
