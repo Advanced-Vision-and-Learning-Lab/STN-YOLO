@@ -42,7 +42,7 @@ The STN-YOLO runs using the following functions.
 
  ```The dataset should be in YOLOV8 format```
  A sample dataset thet we used for this project is given here, this dataset is an inhouse dataset grown in the Texas A&M Agrilife facility - College Station, TX 
- https://drive.google.com/file/d/13d-PxhwRYguQ0JeKA3EuY9sN3dnhAXFB/view?usp=drive_link
+[Dataset](https://drive.google.com/drive/folders/17IfXOsj0zTceSetX8syem751PVlcloXz?usp=drive_link)
 
 3. Train model 
 
