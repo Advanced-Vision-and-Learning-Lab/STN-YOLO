@@ -8,8 +8,6 @@ _Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul_
 [`Zendo`](https://zenodo.org/records/10905984). https://zenodo.org/records/10905984
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10905984.svg)](https://zenodo.org/records/10905984)
 
-[`IEEE Xplore (name)`](tbd)
-
 [`arXiv`](https://arxiv.org/abs/2407.21652)
 
 [`BibTeX`](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/README.md#citing-spatial-transformer-network-you-only-look-once-stn-yolo-for-improved-object-detection)
@@ -17,7 +15,7 @@ _Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul_
 
 Note: If this code is used, cite it: Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul. 
 
-TBD for paper links 
+
 
 In this repository, we provide the code for the "Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection"
 
