@@ -12,7 +12,7 @@ _Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul_
 
 [`arXiv`](https://arxiv.org/abs/2407.21652)
 
-[`BibTeX`](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/README.md#citing-spatial-transformer-network-you-only-look-once-stn-yolo-for-improved-object-detection))
+[`BibTeX`](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO/blob/main/README.md#citing-spatial-transformer-network-you-only-look-once-stn-yolo-for-improved-object-detection)
 
 
 Note: If this code is used, cite it: Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul. 
