@@ -10,9 +10,9 @@ _Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul_
 
 [`IEEE Xplore (name)`](tbd)
 
-[`arXiv`](tbd)
+[`arXiv`](https://arxiv.org/abs/2407.21652)
 
-[`BibTeX`](tbd)
+[`BibTeX`](https://github.com/Peeples-Lab/STN-YOLO#Citing Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection)
 
 
 Note: If this code is used, cite it: Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul. 
@@ -93,6 +93,14 @@ Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul, "Spatial Trans
 
 **BibTex:**
 ```
-
+@misc{zambre2024spatialtransformernetworkyolo,
+      title={Spatial Transformer Network YOLO Model for Agricultural Object Detection}, 
+      author={Yash Zambre and Ekdev Rajkitkul and Akshatha Mohan and Joshua Peeples},
+      year={2024},
+      eprint={2407.21652},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.21652}, 
+}
 
 ```
