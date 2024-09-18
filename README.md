@@ -78,7 +78,7 @@ https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO
 This source code is licensed under the license found in the [`LICENSE`](LICENSE.txt) 
 file in the root directory of this source tree.
 
-This product is Copyright (c) 2023 Y. Zambre and J. Peeples. All rights reserved.
+This product is Copyright (c) 2023 Yash Zambre and Ekdev Rajkitkul and Akshatha Mohan and Joshua Peeples. All rights reserved.
 
 ## <a name="CitingSTN-YOLO"></a>Citing Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection
 
