@@ -87,7 +87,7 @@ reference using the following entry.
 
 **Plain Text:**
 
-Yash Zambre, Joshua Peeples, Akshatha Mohan and Ekdev Rajkitikul, "Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection,"  in Review.
+Yash Zambre and Ekdev Rajkitkul and Akshatha Mohan and Joshua Peeples, "Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection,"  in Review.
 
 **BibTex:**
 ```
