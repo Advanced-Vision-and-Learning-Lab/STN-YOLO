@@ -42,7 +42,10 @@ The STN-YOLO runs using the following functions.
 
  ```The dataset should be in YOLOV8 format```
  A sample dataset thet we used for this project is given here, this dataset is an inhouse dataset grown in the Texas A&M Agrilife facility - College Station, TX 
-[Dataset](https://drive.google.com/drive/folders/17IfXOsj0zTceSetX8syem751PVlcloXz?usp=drive_link)
+ 
+Link 1 (FigShare): [Dataset](https://figshare.com/articles/dataset/Plant_Growth_and_Phenotyping_Dataset_version_1/33302214)
+
+Link 2 (Google Drive): [Dataset](https://drive.google.com/drive/folders/17IfXOsj0zTceSetX8syem751PVlcloXz?usp=drive_link)
 
 3. Train model 
 
@@ -87,7 +90,7 @@ reference using the following entry.
 
 **Plain Text:**
 
-Yash Zambre and Ekdev Rajkitkul and Akshatha Mohan and Joshua Peeples, "Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection,"2024 23rd IEEE International Conference on Machine Learning and Applications (ICMLA), Miami, Florida, 2024, pp. 1-7. doi:https://doi.org/10.48550/arXiv.2407.21652
+Yash Zambre and Ekdev Rajkitkul and Akshatha Mohan and Joshua Peeples, "Spatial Transformer Network You Only Look Once (STN-YOLO) for Improved Object Detection,"2024 23rd IEEE International Confer[...]
 keywords:{Spatial transformer network, object detection, YOLO, plant phenotyping}
 
 **BibTex:**
